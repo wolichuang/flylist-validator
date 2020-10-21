@@ -1,0 +1,13 @@
+{
+  "name": "validator-js",
+  "main": "validator.js",
+  "ignore": [
+    "**/.*",
+    "index.js",
+    "build*.js",
+    "package.json",
+    "node_modules",
+    "bower_components",
+    "test"
+  ]
+}
